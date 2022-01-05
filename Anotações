@@ -1,0 +1,5 @@
+## Comandos git
+ - git clone <link do repositorio>
+ - git pull 
+ - git push
+ - git checkout <nome branch>
