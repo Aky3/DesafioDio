@@ -1,2 +1,2 @@
-# DesafioDio
-Meu primeiro repositorio 
+# Desafio DIO ☕
+ - Respositorio criado para fazer anotações
